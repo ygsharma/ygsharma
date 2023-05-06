@@ -1,4 +1,4 @@
-[![Header](<link> "Header")](<portfolio link>)
+[![Header](https://raw.githubusercontent.com/ygsharma/ygsharma/main/github_header.png "Header")](#)
 
 # Namaste, deviyon or sajjano! 🙏🙏🙏
 
