@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/ygsharma/ygsharma/main/github_header.png "Header")](#)
 
-# Namaste, deviyon or sajjano! 🙏🙏🙏
+# Hey Folks! 🙏🙏🙏
 
 My name is Yogesh Sharma and I'm a Software Engineer. I'm from New York, United States, and currently studying Computer Engineering in NYU. You can find me on [LinkedIn](https://www.linkedin.com/in/yogesh-sharma-b7348118a/)
 
