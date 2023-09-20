@@ -4,7 +4,7 @@
 
 My name is Yogesh Sharma and I'm a Software Engineer. I'm from New York, United States, and currently studying Computer Engineering in NYU. You can find me on [LinkedIn](https://www.linkedin.com/in/yogesh-sharma-b7348118a/)
 
-- 🔭 I’m currently working in Python/Node
+- 🔭 I’m currently working in Python/Node/Java
 - 🌱 I’m currently learning Distributed Systems
 
 ## Technologies & Tools
