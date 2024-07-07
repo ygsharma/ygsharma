@@ -4,8 +4,8 @@
 
 My name is Yogesh Sharma and I'm a Software Engineer. I'm from New York, United States, and currently studying Computer Engineering in NYU. You can find me on [LinkedIn](https://www.linkedin.com/in/yogesh-sharma-b7348118a/), [LeetCode](https://leetcode.com/ygsharma/).
 
-- 🔭 I’m currently working in Python/Node/Java
-- 🌱 I’m currently learning Distributed Systems
+- 🔭 I’m currently working in Python/Java/Node
+- 🌱 I’m currently learning C++ and Distributed Systems
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
