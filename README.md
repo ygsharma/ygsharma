@@ -1,35 +1,43 @@
 [![Header](https://raw.githubusercontent.com/ygsharma/ygsharma/main/github_header.png "Header")](#)
 
-# Hey Folks! 🙏🙏🙏
+# 👋 Hey Folks! I'm Yogesh Sharma
 
-My name is Yogesh Sharma and I'm a Software Engineer. I'm from New York, United States, and currently studying Computer Engineering in NYU. You can find me on [LinkedIn](https://www.linkedin.com/in/yogesh-sharma-b7348118a/), [LeetCode](https://leetcode.com/ygsharma/).
+I'm a Software Engineer based in New York, recently graduated with a Master’s in Computer Engineering from NYU.  
+I specialize in building scalable backend systems, compilers, and applied machine learning pipelines — with a strong interest in low-level systems and AI infrastructure.
 
-- 🔭 I’m currently working in Python/Java/Node
-- 🌱 I’m currently learning C++ and Distributed Systems
+You can find me on [LinkedIn](https://www.linkedin.com/in/yogeshsharma-ai/) and [LeetCode](https://leetcode.com/ygsharma/).
 
-## Technologies & Tools
+---
+
+- 🔭 Currently working with C++, Java, and Python on systems, compilers, and ML research
+- 🧠 Exploring CUDA, TensorRT, and compiler IR design
+- 🔧 Previously built backend services, ETL pipelines, and scraping systems using Django, Spring Boot, Redis, and Celery
+
+---
+
+## 🛠️ Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=apachespark&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Celery-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Message-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Protobuf-GRPC-informational?style=flat&logo=protobuf&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Debug-GDB-informational?style=flat&logo=gnu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-TabPFN-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GPU-CUDA-informational?style=flat&logo=nvidia&logoColor=white&color=2bbc8a)
 
+---
 
-<a href="https://github.com/ygsharma/ygsharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygsharma&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/ygsharma/ygsharma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ygsharma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yogesh's GitHub Stats" />
-</a>
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+Thanks for stopping by! If you're working on systems, compilers, or ML infra — let’s connect 🚀
