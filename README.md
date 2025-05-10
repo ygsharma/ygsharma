@@ -5,7 +5,7 @@
 I'm a Software Engineer based in New York, recently graduated with a Master’s in Computer Engineering from NYU.  
 I specialize in building scalable backend systems, compilers, and applied machine learning pipelines — with a strong interest in low-level systems and AI infrastructure.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/yogeshsharma-ai/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/yogeshsharma-ai/) and [LeetCode](https:/www.leetcode.com/ygsharma).
 
 ---
 
